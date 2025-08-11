@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Print Message') {
             steps {
-                echo 'Hello from Jenkins! This message prints on every code change.'
+                echo 'Hello from Jenkins! .'
             }
         }
     }
